@@ -1,7 +1,7 @@
 # Activerecord::Except
 
-Provides `ActiveRecord::Relation#except`, a convenience method that let's you
-select all the fields from a table with the exception of the given ones.
+Provides `ActiveRecord::Relation#except`, a convenience method that lets you
+select all the fields from a table except for the given ones.
 
 ## Installation
 
